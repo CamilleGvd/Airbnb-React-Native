@@ -24,14 +24,16 @@ Make sure that you have previously installed Expo https://docs.expo.io/versions/
 
 ## Screenshots
 
-![GitHub Logo](/assets/image/screenshot-1.png)
-![GitHub Logo](/assets/image/screenshot-2.png)
-![GitHub Logo](/assets/image/screenshot-3.png)
-![GitHub Logo](/assets/image/screenshot-4.png)
-![GitHub Logo](/assets/image/screenshot-5.png)
-![GitHub Logo](/assets/image/screenshot-6.png)
-![GitHub Logo](/assets/image/screenshot-7.png)
-![GitHub Logo](/assets/image/screenshot-8.png)
+<img src="./assets/image/screenshot-1.png" width="260" height="500">
+<img src="./assets/image/screenshot-2.png" width="260" height="500">
+<img src="./assets/image/screenshot-3.png" width="260" height="500">
+<img src="./assets/image/screenshot-4.png" width="260" height="500">
+<img src="./assets/image/screenshot-5.png" width="260" height="500">
+<img src="./assets/image/screenshot-6.png" width="260" height="500">
+<img src="./assets/image/screenshot-7.png" width="260" height="500">
+<img src="./assets/image/screenshot-8.png" width="260" height="500">
+
+
 
 
 ## Status
