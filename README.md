@@ -28,6 +28,7 @@ Make sure that you have previously installed Expo https://docs.expo.io/versions/
 <img src="./assets/image/screenshot-2.png" width="250" height="500"> <img src="./assets/image/screenshot-3.png" width="250" height="500"> <img src="./assets/image/screenshot-4.png" width="250" height="500">
 </p>
 
+
 <p align="center">
 <img src="./assets/image/screenshot-5.png" width="250" height="500"> <img src="./assets/image/screenshot-6.png" width="250" height="500"> <img src="./assets/image/screenshot-8.png" width="250" height="500">
 </p>
