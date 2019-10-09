@@ -1,5 +1,13 @@
 # Airbnb-React-Native
 
+
+## Table of contents
+
+  * [General info](#general-info)
+  * [Installation](#installation)
+  * [Screenshots](#screenshots)
+  * [Status](#status)
+
 ## General info
 
 Project done during training to learn about some basic ReactNative concepts.
